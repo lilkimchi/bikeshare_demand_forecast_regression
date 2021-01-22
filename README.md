@@ -1,7 +1,7 @@
 # Forecasting Bikeshare Demand
 
 ## Introduction
-Capital Bikeshare is a DC-based bike sharing business. Their dataset will be used to answer the question: How many bikes need to be ready at a given time?<br>
+Capital Bikeshare is a DC-based bike sharing business. Their dataset will be used to answer the question: How many bikes need to be ready?<br>\Features affecting the rentals are related to time and weather.
 
 Questions for data exploration are:<br>
 
