@@ -41,11 +41,6 @@ How does the behavior of casual users differ from subscribers?<br>
 - drop 'Casual' and 'Registered' during model building.
 
 ## Feature Engineering
-df["date"] = df.datetime.apply(lambda x : x.split()[0])
-df["hour"] = df.datetime.apply(lambda x : x.split()[1].split(":")[0]).astype("int")
-df["year"] = df.datetime.apply(lambda x : x.split()[0].split("-")[0])
-df["weekday"] = df.date.apply(lambda dateString : datetime.strptime(dateString,"%Y-%m-%d").weekday())
-df["month"] = df.date.apply(lambda dateString : datetime.strptime(dateString,"%Y-%m-%d").month)
 
 
 
