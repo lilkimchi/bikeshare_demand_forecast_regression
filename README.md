@@ -16,7 +16,7 @@ How does the behavior of casual users differ from subscribers?<br>
 
 ### Outlier Analysis with Boxplots
 
-<img src='visualizations/boxplots.ong' width=500>
+<img src='visualizations/boxplots.png' width=500>
 
 ### Correlation Matric to Visualize how rentals are influenced by various features like temperature, atemp, humidity, and windspeed
 
@@ -25,5 +25,6 @@ How does the behavior of casual users differ from subscribers?<br>
 ## Feature Engineering
 
 <img src='visualizations/feature engineering.png' width=500>
+
 
 
