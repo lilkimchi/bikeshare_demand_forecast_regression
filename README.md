@@ -1,6 +1,6 @@
 # Forecasting Bikeshare Demand<br>
 
-<img src='visualizations/biking.gif' width=500>
+<img src='visualizations/bikes.gif' width=500>
 
 ## Introduction
 ### How many bikes need to be ready?
