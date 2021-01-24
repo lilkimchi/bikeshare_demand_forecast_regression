@@ -25,7 +25,7 @@ Correlation motrix to visualize how rentals are influenced by various features l
 
 ## Feature Engineering
 
-<img src='visualizations/feature engineering.png' width=1100>
+<img src='visualizations/feature engineering.png' width=1000>
 
 
 
