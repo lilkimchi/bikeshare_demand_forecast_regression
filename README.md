@@ -18,7 +18,8 @@ How does the behavior of casual users differ from subscribers?<br>
 
 <img src='visualizations/boxplots.png' width=700>
 
-### Correlation Matric to Visualize how rentals are influenced by various features like temperature, atemp, humidity, and windspeed
+### Correlation Matrix
+Correlation motrix to visualize how rentals are influenced by various features like temperature, atemp, humidity, and windspeed
 
 <img src='visualizations/matrix.png' width=700>
 
