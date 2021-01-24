@@ -24,7 +24,7 @@ How does the behavior of casual users differ from subscribers?<br>
 
 ## Feature Engineering
 
-<img src='visualizations/feature engineering.png' width=800>
+<img src='visualizations/feature engineering.png' width=1100>
 
 
 
