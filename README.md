@@ -23,9 +23,15 @@ Correlation motrix to visualize how rentals are influenced by various features l
 
 <img src='visualizations/matrix.png' width=700>
 
-## Feature Engineering
+### Feature Engineering
 
 <img src='visualizations/feature engineering.png' width=1000>
+
+## Model Evaluation
+
+RMSLE Scorer will be the main metric focused on evauating. It will be particularly helpful in Penalizing underestimation of the actual values. Once that's contraucted we can bukld the models.
+
+
 
 
 
