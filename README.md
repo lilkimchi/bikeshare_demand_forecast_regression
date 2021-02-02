@@ -3,7 +3,7 @@
 <img src='visualizations/bikes.gif' width=500>
 
 ## Introduction
-Capital Bikeshare is a DC-based bike sharing business. This dataset contains various weather and time conditions and is ised to predict overall demand. 
+Capital Bikeshare is a DC-based bike sharing business. This dataset contains various weather and time conditions and is used to predict overall demand. 
 
 ## Data Exploration
 
