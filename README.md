@@ -29,7 +29,7 @@ Correlation motrix to visualize how rentals are influenced by various features l
 
 ## Model Evaluation
 
-RMSLE Scorer will be the main metric focused on evauating. It will be particularly helpful in Penalizing underestimation of the actual values. Once that's contraucted we can bukld the models.
+RMSLE Scorer will be the main metric focused on evauating. It will be particularly helpful in Penalizing underestimation of the actual values. Once that's contraucted we can build the models.
 
 
 
