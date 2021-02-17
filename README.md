@@ -19,7 +19,7 @@ How does the behavior of casual users differ from subscribers?<br>
 <img src='visualizations/boxplots.png' width=700>
 
 ### Correlation Matrix
-Correlation motrix to visualize how rentals are influenced by various features like temperature, atemp, humidity, and windspeed
+Correlation matrix to visualize how rentals are influenced by various features like temperature, atemp, humidity, and windspeed
 
 <img src='visualizations/matrix.png' width=700>
 
@@ -29,7 +29,7 @@ Correlation motrix to visualize how rentals are influenced by various features l
 
 ## Model Evaluation
 
-RMSLE Scorer will be the main metric focused on evauating. It will be particularly helpful in Penalizing underestimation of the actual values. Once that's contraucted we can build the models.
+RMSLE Scorer will be the main metric focused on evauating. It will be particularly helpful in penalizing underestimation of the actual values. Once that's contraucted we can build the models.
 
 
 
