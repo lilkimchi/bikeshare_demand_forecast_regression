@@ -34,6 +34,17 @@ Correlation matrix to visualize how rentals are influenced by various features l
 
 <img src='visualizations/feature engineering.png' width=1000>
 
+## Windspeed
+
+Frequency of windspeed values in the data:
+
+<img src='visualizations/windspeed.png' width=1000>
+
+Windspeed after imputation:
+
+<img src='visualizations/windspeed imputation.png' width=1000>
+
+
 ## Model Evaluation
 
 RMSLE Scorer will be the main metric focused on evaluating. It will be particularly helpful in penalizing underestimation of the actual values. Once that's contraucted we can build the models.
