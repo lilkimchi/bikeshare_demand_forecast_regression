@@ -40,6 +40,8 @@ Frequency of windspeed values in the data:
 
 <img src='visualizations/windspeed.png' width=1000>
 
+# With a large number of zero values in the windspeed column, use random forests algorithm to do a missing values analysis
+
 Windspeed after imputation:
 
 <img src='visualizations/windspeed imputation.png' width=1000>
