@@ -35,7 +35,7 @@ RMSLE Scorer will be the main metric focused on evaluating. It will be particula
 
 <img src='visualizations/Lasso.png' width=1000>
 
-<img src='visualizations/random_forests.png' width=1000>
+<img src='visualizations/Random_forests.png' width=1000>
 
 <img src='visualizations/compare_distribution.png' width=1000>
 
