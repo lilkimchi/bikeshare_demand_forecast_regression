@@ -21,7 +21,14 @@ How does the behavior of casual users differ from subscribers?<br>
 ### Correlation Matrix
 Correlation matrix to visualize how rentals are influenced by various features like temperature, atemp, humidity, and windspeed
 
-<img src='visualizations/matrix.png' width=700>
+<img src='visualizations/matrix.png' width=500>
+
+<img src='visualizations/Distribution of Data.png' width=700>
+
+<img src='visualizations/dependent variables time temp.png' width=500>
+
+<img src='visualizations/observations.png' width=500>
+
 
 ### Feature Engineering
 
