@@ -25,9 +25,9 @@ Correlation matrix to visualize how rentals are influenced by various features l
 
 <img src='visualizations/Distribution of Data.png' width=700>
 
-<img src='visualizations/dependent variables time temp.png' width=500>
+<img src='visualizations/dependent variables time temp.png' width=700>
 
-<img src='visualizations/observations.png' width=500>
+<img src='visualizations/observations.png' width=700>
 
 
 ### Feature Engineering
