@@ -49,7 +49,7 @@ Windspeed after imputation:
 
 ## Model Evaluation
 
-RMSLE Scorer will be the main metric focused on evaluating. It will be particularly helpful in penalizing underestimation of the actual values. Once that's contraucted we can build the models.
+RMSLE Scorer will be the main metric focused on evaluating. It will be particularly helpful in penalizing underestimation of the actual values. Once that's constructed we can build the models.
 
 <img src='visualizations/linear_regression_model.png' width=1100>
 
