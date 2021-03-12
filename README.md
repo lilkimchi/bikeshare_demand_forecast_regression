@@ -16,7 +16,7 @@ How does the behavior of casual users differ from subscribers?<br>
 
 ### Outlier Analysis with Boxplots
 
-<img src='visualizations/boxplots.png' width=700>
+<img src='visualizations/boxplots.png' width=1000>
 
 ### Correlation Matrix
 Correlation matrix to visualize how rentals are influenced by various features like temperature, atemp, humidity, and windspeed
